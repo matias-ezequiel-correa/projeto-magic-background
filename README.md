@@ -2,7 +2,7 @@
   Matías Ezequiel Correa - Projeto "Magic Background" 🪄
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-magick-ia/" target="_blank">Projeto Magic Background | By Matías Correa,</a> utlizando HTML, CSS e JavaScript sobre , atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-magic-background/" target="_blank">Projeto Magic Background | By Matías Correa,</a> utlizando HTML, CSS e JavaScript sobre , atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
