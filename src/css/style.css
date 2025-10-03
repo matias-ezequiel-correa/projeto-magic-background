@@ -7,6 +7,13 @@ body {
     padding: 32px 24px;
 }
 
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    z-index: 99;
+    position: relative;
+}
+
 .header {
     margin: 40px auto;
     z-index: 99;
@@ -25,13 +32,6 @@ body {
     font-size: 19px;
 }
 
-.container {
-    max-width: 1024px;
-    margin: 0 auto;
-    z-index: 99;
-    position: relative;
-}
-
 .card {
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 16px;
@@ -46,7 +46,7 @@ body {
 }
 
 .form-group textarea {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.05);
     color: #ffffff;
     width: 100%;
     min-height: 120px;
@@ -69,7 +69,7 @@ body {
 .form-group .btn-magic {
     width: 100%;
     padding: 16px 32px;
-    background: linear-gradient(90deg, #a655f7, 0%, #ff80aa, 100%);
+    background: linear-gradient(90deg, #a655f7 0%, #ff80aa 100%);
     color: #ffffff;
     border: none;
     border-radius: 8px;
